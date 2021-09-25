@@ -4,7 +4,7 @@
   "description": "interview test",
   "main": "assessment.js",
   "directories": {
-    "test": "tests"
+    "test": "jest"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
